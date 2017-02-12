@@ -1,0 +1,26 @@
+[
+    {
+        "ID":1,
+        "designation":"produit 1",
+        "quantite":1,
+        "prix":1
+    },
+    {
+        "ID":2,
+        "designation":"produit 2",
+        "quantite":2,
+        "prix":2
+    },
+    {
+        "ID":3,
+        "designation":"produit 3",
+        "quantite":3,
+        "prix":3
+    },
+    {
+        "ID":4,
+        "designation":"produit 2",
+        "quantite":4,
+        "prix":4
+    }
+]
